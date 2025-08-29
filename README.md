@@ -1,8 +1,8 @@
 # 🎓 TMBA Portfolio | Quant & Finance Projects
 
-📌 **Backtesting Projects**  
-   - Moving Average Strategy on TWSE stocks  
-   - Crypto trading strategy with volatility filters
+📌 **散戶策略**  
+   - 回測.ipynb
+   - 成果發表
 
 📌 **Data Analysis**  
    - Market sentiment vs. volume analysis  
