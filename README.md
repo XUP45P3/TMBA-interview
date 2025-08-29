@@ -15,4 +15,3 @@
 ## 📫 Contact
 
 - Email｜<t112ab0018@ntut.org.tw>
-- Phone Number｜0960981616
