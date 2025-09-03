@@ -1,4 +1,4 @@
-# 🎓 TMBA Portfolio | Quant & Finance Projects
+# 🎓 TMBA Portfolio
 
 📌 **散戶策略**
    - 回測.ipynb
