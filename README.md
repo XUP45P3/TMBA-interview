@@ -1,16 +1,11 @@
 # 🎓 TMBA Portfolio | Quant & Finance Projects
 
-📌 **散戶策略**  
+📌 **散戶策略**
    - 回測.ipynb
-   - 成果發表
+   - 成果發表.pdf
 
-📌 **Data Analysis**  
-   - Market sentiment vs. volume analysis  
-   - Institutional vs retail trading patterns (散戶指標)
-
-📌 **Research Notes**  
-   - Correlation between USD/NTD and TSMC ADR  
-   - Reading summaries: *The Man Who Solved the Market*
+📌 **除息策略**
+   - 回測.ipynb
 
 ## 📫 Contact
 
